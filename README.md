@@ -536,10 +536,6 @@ dotnet ef database update
 - **Changing mapping**: Update `MappingProfile.cs`
 - **Changing authorization**: Update policies in `Program.cs` or add `[Authorize]` attributes
 
-## License
-
-[Specify your license here]
-
 ## Support
 
 For issues and questions, please contact: support@arabia.com
